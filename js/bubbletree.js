@@ -622,7 +622,7 @@ var BubbleTree = function(config, onHover, onUnHover) {
         }
       }
 
-      tr = new ns.Transitioner($.browser.msie || me.currentCenter == node ? 0 : 1000);
+      tr = new ns.Transitioner(/msie/.test(navigator.userAgent.toLowerCase()) || me.currentCenter == node ? 0 : 1000);
       tr.changeLayout(t);
       me.currentTransition = tr;
       if (!me.currentCenter && $.isFunction(me.config.firstNodeCallback)) {
