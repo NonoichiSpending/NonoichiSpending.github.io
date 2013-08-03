@@ -7,6 +7,14 @@ var baseKoujo = Taxes.baseKoujo; // 住民税基礎控除
 var huyoKoujo = Taxes.huyoKoujo; // 一人分の扶養控除
 var taxRate = Taxes.taxRate; // 住民税率
 
+var graphSlope=[
+  [  0,  800000],
+  [ 30, 3500000],
+  [ 80, 4500000],
+  [100,20000000]
+]
+
+
 var formatCurrency = function (val, prec, sym, dec, sep) {
   prec = prec === undefined ? 2 : prec
   sym = sym || '\u00A5' // Yen sign
@@ -42,10 +50,10 @@ OpenSpending.DailyBread = function (elem) {
     this.setSalary(4000000) // default starting salary
 
     this.$e.find('.wdmmg-slider').slider({
-      value: this.salaryVal,
-      min: 1000000,
-      max: 20000000,
-      step: 10000,
+      value: 50,
+      min: 0,
+      max: 100,
+      step: 1,
       animate: true,
       slide: function () { self.sliderUpdated.apply(self, arguments) }
     })
@@ -54,7 +62,17 @@ OpenSpending.DailyBread = function (elem) {
   }
 
   this.sliderUpdated = function (evt, sld) {
-    self.setSalary(sld.value)
+    for (var i = 1; i < graphSlope.length; i++) {
+        if (sld.value==100 ||
+          graphSlope[i-1][0]<=sld.value && sld.value<graphSlope[i][0]){
+          self.setSalary(
+            graphSlope[i-1][1]+(graphSlope[i][1]-graphSlope[i-1][1])*
+            (
+              (sld.value-graphSlope[i-1][0])/(graphSlope[i][0]-graphSlope[i-1][0])
+            )
+            );
+        }
+    }
     self.sliderUpdate = true
     self.draw()
     self.sliderUpdate = false
