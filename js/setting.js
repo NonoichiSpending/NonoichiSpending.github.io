@@ -19,11 +19,15 @@ OpenSpending.Styles.Cofog = {
 
   /* nonoichi cofog */
   '1': { icon: 'icons/nonoichi/ministry.svg', color: '#C75746', bcolor: '#935B3B' },
+  '101': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' },
+  '102': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#935B3B' },
   '103': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#935B3B' },
   '104': { icon: 'icons/spending.jp/publicaffairs.svg', color: '#C75746', bcolor: '#938626' },
   '105': { icon: 'icons/spending.jp/vote.svg', color: '#C75746', bcolor: '#938626' },
+  '106': { icon: 'icons/research.svg', color: '#C75746', bcolor: '#935B3B' },
+  '107': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/nonoichi/education.svg', color: '#C75746', bcolor: '#0AB971' },
-  '201': { icon: 'icons/spending.jp/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
+  '201': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#0AB971' },
   '202': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
   '203': { icon: 'icons/secondary-upper.svg', color: '#C75746', bcolor: '#0AB971' },
   '204': { icon: 'icons/spending.jp/c_bunnka.svg', color: '#C75746', bcolor: '#0AB971' },
