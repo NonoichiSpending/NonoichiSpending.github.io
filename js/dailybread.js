@@ -132,8 +132,14 @@ OpenSpending.DailyBread = function (elem) {
     var data_db_area_text = data_db_area_elem.innerText || data_db_area_elem.textContent
     var name = data_db_area_text.replace(/\s+/g, '') // delete spaces
     var title = tooltipTitles[name]
-    $(tier.find('[data-db-area='+areaId+']')[1]).attr('title', title)
-    $(tier.find('[data-db-area='+areaId+']')[1]).tooltip({track: true})
+    var tooltip_attribute = 'jq-ui-tooltip' // attribute name for tooltip
+    $(tier.find('[data-db-area='+areaId+']')[1])
+        .attr(tooltip_attribute, title)
+        .tooltip({
+            items: '[' + tooltip_attribute + ']',
+            content: function() {
+                return $(this).attr(tooltip_attribute) },
+            track: true})
   }
 
   this.handleClick = function () {
