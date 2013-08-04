@@ -98,7 +98,7 @@ OpenSpending.DailyBread = function (elem) {
       value: 50,
       min: 0,
       max: 100,
-      step: 1,
+      step: 0.25,
       animate: true,
       slide: function () { self.sliderUpdated.apply(self, arguments) }
     })
