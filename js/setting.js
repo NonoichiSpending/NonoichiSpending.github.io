@@ -40,7 +40,10 @@ OpenSpending.Styles.Cofog = {
   '401': { icon: 'icons/labour.svg', color: '#C75746', bcolor: '#D33673' },
   '402': { icon: 'icons/spending.jp/tourism.svg', color: '#C75746', bcolor: '#D33673' },
   '5': { icon: 'icons/nonoichi/infrastracture.svg', color: '#C75746', bcolor: '#2A3A03' },
-  '5-1': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '501': { icon: 'icons/spending.jp/construction.svg', color: '#C75746', bcolor: '#935B3B' },
+  '502': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#935B3B' },
+  '504': { icon: 'icons/planning.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '505': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#935B3B' },
   '5-2': { icon: 'icons/wind.svg', color: '#C75746', bcolor: '#2A3A03'  },
   '6': { icon: 'icons/nonoichi/clean.svg', color: '#C75746', bcolor: '#EC2406' },
   '601': { icon: 'icons/health.svg', color: '#C75746', bcolor: '#938626' },
@@ -54,7 +57,8 @@ OpenSpending.Styles.Cofog = {
   '9': { icon: 'icons/nonoichi/payback.svg', color: '#C75746', bcolor: '#D33673' },
   '901': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#D33673' },
   '10': { icon: 'icons/nonoichi/others.svg', color: '#C75746', bcolor: '#790586' },
-  '10-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '1001': { icon: 'icons/spending.jp/japanese-money.svg', color: '#C75746', bcolor: '#790586' },
+  '1002': { icon: 'icons/spending.jp/japanese-money.svg', color: '#C75746', bcolor: '#790586' }
 };
 
 
