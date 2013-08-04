@@ -1,4 +1,4 @@
-# 俺のゼニはどこ行った for 横浜
+# 俺のゼニはどこ行った for 野々市
 
 wheredoesmymoney.orgの横浜バージョンです．
 
