@@ -127,7 +127,9 @@ OpenSpending.DailyBread = function (elem) {
     var tier = $(this).closest('.db-tier')
     var areaId = parseInt($(this).attr('data-db-area'), 10)
 
-    var name = tier.find('[data-db-area='+areaId+']')[0].innerText.split('\n')[0]
+    var data_db_area_elem = tier.find('[data-db-area='+areaId+']')[0]
+    var data_db_area_text = data_db_area_elem.innerText || data_db_area_elem.textContent
+    var name = data_db_area_text.replace(/\s+/g, '') // delete spaces
     var title = tooltipTitles[name]
     $(tier.find('[data-db-area='+areaId+']')[1]).attr('title', title)
     $(tier.find('[data-db-area='+areaId+']')[1]).tooltip({track: true})
