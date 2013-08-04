@@ -6,6 +6,7 @@ var dependentType = 'single'; // 世帯タイプ初期値
 var baseKoujo = Taxes.baseKoujo; // 住民税基礎控除
 var huyoKoujo = Taxes.huyoKoujo; // 一人分の扶養控除
 var taxRate = Taxes.taxRate; // 住民税率
+var kintowari =Taxes.kintowari; //世帯均等割
 
 var graphSlope=[
   [  0,  800000],
