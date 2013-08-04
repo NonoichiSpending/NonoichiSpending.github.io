@@ -19,8 +19,9 @@ OpenSpending.Styles.Cofog = {
 
   /* nonoichi cofog */
   '1': { icon: 'icons/nonoichi/ministry.svg', color: '#C75746', bcolor: '#935B3B' },
-  '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '103': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#935B3B' },
+  '104': { icon: 'icons/spending.jp/publicaffairs.svg', color: '#C75746', bcolor: '#938626' },
+  '105': { icon: 'icons/spending.jp/vote.svg', color: '#C75746', bcolor: '#938626' },
   '2': { icon: 'icons/nonoichi/education.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-1': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-2': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
