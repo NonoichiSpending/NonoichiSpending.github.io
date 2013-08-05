@@ -105,6 +105,7 @@ OpenSpending.DailyBread = function (elem) {
 
     this.$e.delegate('.db-area-col', 'click', this.handleClick)
     this.$e.delegate('.db-area-col', 'mouseenter', this.handleMouseEnter)
+    this.$e.delegate('.db-area-col', 'mouseout', this.handleMouseOut)
   }
 
   this.sliderUpdated = function (evt, sld) {
@@ -140,6 +141,18 @@ OpenSpending.DailyBread = function (elem) {
             content: function() {
                 return $(this).attr(tooltip_attribute) },
             track: true})
+  }
+
+  this.handleMouseOut = function() {
+    var tier = $(this).closest('.db-tier')
+    var areaId = parseInt($(this).attr('data-db-area'), 10)
+
+    var data_db_area_elem = tier.find('[data-db-area='+areaId+']')[0]
+    var data_db_area_text = data_db_area_elem.innerText || data_db_area_elem.textContent
+    var name = data_db_area_text.replace(/\s+/g, '') // delete spaces
+    var title = tooltipTitles[name]
+
+    $(tier.find('[data-db-area='+areaId+']')[1]).tooltip('close')
   }
 
   this.handleClick = function () {
