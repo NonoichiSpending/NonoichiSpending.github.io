@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="280mm" height="210mm" viewBox="0 0 28000 21000" preserveAspectRatio="xMidYMid" fill-rule="evenodd" clip-path="url(#presentation_clip_path)" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+ <defs class="ClipPathGroup">
+  <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
+   <rect x="0" y="0" width="28000" height="21000"/>
+  </clipPath>
+ </defs>
+ <defs class="TextShapeIndex">
+  <g ooo:slide="id1" ooo:id-list="id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48"/>
+ </defs>
+ <defs class="EmbeddedBulletChars">
+  <g id="bullet-char-template(57356)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
+  </g>
+  <g id="bullet-char-template(57354)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
+  </g>
+  <g id="bullet-char-template(10146)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10132)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10007)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
+  </g>
+  <g id="bullet-char-template(10004)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
+  </g>
+  <g id="bullet-char-template(9679)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
+  </g>
+  <g id="bullet-char-template(8226)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
+  </g>
+  <g id="bullet-char-template(8211)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
+  </g>
+ </defs>
+ <defs class="TextEmbeddedBitmaps"/>
+ <g>
+  <g id="id2" class="Master_Slide">
+   <g id="bg-id2" class="Background"/>
+   <g id="bo-id2" class="BackgroundObjects">
+    <g class="Date/Time">
+     <g id="id3"/>
+    </g>
+    <g class="Footer">
+     <g id="id4"/>
+    </g>
+    <g visibility="hidden" class="Slide_Number">
+     <g id="id5">
+      <text class="TextShape"><tspan class="TextParagraph" font-family="Times New Roman, serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="24534" y="19571"><tspan class="PlaceholderText" fill="rgb(0,0,0)" stroke="none">&lt;number&gt;</tspan></tspan></tspan></text>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g class="SlideGroup">
+  <g>
+   <g id="id1" class="Slide" clip-path="url(#presentation_clip_path)">
+    <g class="Page">
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id6">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="564px" font-weight="400"><tspan class="TextPosition" x="8050" y="2720"><tspan fill="rgb(0,0,0)" stroke="none">国税</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Helvetica, sans-serif" font-size="564px" font-weight="400"><tspan class="TextPosition" x="8050" y="3224"><tspan fill="rgb(49,49,49)" stroke="none">所得税・法人税・相続税等の直接税</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Helvetica, sans-serif" font-size="564px" font-weight="400"><tspan class="TextPosition" x="8050" y="3791"><tspan fill="rgb(49,49,49)" stroke="none">消費税・酒税・揮発油税・国たばこ税等の間接税</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id7">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="564px" font-weight="400"><tspan class="TextPosition" x="1650" y="9705"><tspan fill="rgb(0,0,0)" stroke="none">市税</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Helvetica, sans-serif" font-size="706px" font-weight="400"><tspan class="TextPosition" x="1650" y="10315"><tspan fill="rgb(49,49,49)" stroke="none">市民税（個人）</tspan><tspan font-size="564px" fill="rgb(49,49,49)" stroke="none">、</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Helvetica, sans-serif" font-size="564px" font-weight="400"><tspan class="TextPosition" x="1650" y="10912"><tspan fill="rgb(49,49,49)" stroke="none">市民税（法人）、</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Helvetica, sans-serif" font-size="564px" font-weight="400"><tspan class="TextPosition" x="1650" y="11479"><tspan fill="rgb(49,49,49)" stroke="none">固定資産税、軽自動車税、</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Helvetica, sans-serif" font-size="564px" font-weight="400"><tspan class="TextPosition" x="1650" y="12046"><tspan fill="rgb(49,49,49)" stroke="none">市たばこ税、</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Helvetica, sans-serif" font-size="564px" font-weight="400"><tspan class="TextPosition" x="1650" y="12613"><tspan fill="rgb(49,49,49)" stroke="none">都市計画税など</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id8">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="564px" font-weight="400"><tspan class="TextPosition" x="11350" y="6320"><tspan fill="rgb(0,0,0)" stroke="none">県税</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Helvetica, sans-serif" font-size="564px" font-weight="400"><tspan class="TextPosition" x="11350" y="6824"><tspan fill="rgb(49,49,49)" stroke="none">県民税、自動車税、個人事業税など</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id9">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="564px" font-weight="400"><tspan class="TextPosition" x="9050" y="9620"><tspan fill="rgb(0,0,0)" stroke="none">地方譲与税、</tspan></tspan></tspan><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="564px" font-weight="400"><tspan class="TextPosition" x="9050" y="10183"><tspan fill="rgb(0,0,0)" stroke="none">地方消費税交付金、</tspan></tspan></tspan><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="564px" font-weight="400"><tspan class="TextPosition" x="9050" y="10746"><tspan fill="rgb(0,0,0)" stroke="none">地方交付金など</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id10">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="1272" y="5819" transform="translate(1272,5819) rotate(90) translate(-1272,-5819)"><tspan fill="rgb(0,0,0)" stroke="none">個人</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id11">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="1191" y="2425" transform="translate(1191,2425) rotate(90) translate(-1191,-2425)"><tspan fill="rgb(0,0,0)" stroke="none">法人</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id12">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="564px" font-weight="400"><tspan class="TextPosition" x="21850" y="9520"><tspan fill="rgb(0,0,0)" stroke="none">補助金、委託金、</tspan></tspan></tspan><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="564px" font-weight="400"><tspan class="TextPosition" x="21850" y="10083"><tspan fill="rgb(0,0,0)" stroke="none">負担金など</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id13">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="564px" font-weight="300"><tspan class="TextPosition" x="20650" y="2720"><tspan fill="rgb(0,0,0)" stroke="none">国債など</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id14">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="564px" font-weight="300"><tspan class="TextPosition" x="16350" y="9520"><tspan fill="rgb(0,0,0)" stroke="none">市債、</tspan></tspan></tspan><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="564px" font-weight="300"><tspan class="TextPosition" x="16350" y="10083"><tspan fill="rgb(0,0,0)" stroke="none">諸収入など</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.RectangleShape">
+      <g id="id15">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 22000,3100 L 20400,3100 20400,2100 23600,2100 23600,3100 22000,3100 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.RectangleShape">
+      <g id="id16">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 13200,4048 L 7800,4048 7800,2100 18600,2100 18600,4048 13200,4048 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.RectangleShape">
+      <g id="id17">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 16700,4300 L 7400,4300 7400,1700 26000,1700 26000,4300 16700,4300 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.RectangleShape">
+      <g id="id18">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 15350,7100 L 10900,7100 10900,5700 19800,5700 19800,7100 15350,7100 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id19">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="564px" font-weight="300"><tspan class="TextPosition" x="20692" y="6520"><tspan fill="rgb(0,0,0)" stroke="none">県債など</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.RectangleShape">
+      <g id="id20">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 22000,6714 L 20400,6714 20400,5714 23600,5714 23600,6714 22000,6714 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.RectangleShape">
+      <g id="id21">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 17400,7500 L 10600,7500 10600,5300 24200,5300 24200,7500 17400,7500 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.RectangleShape">
+      <g id="id22">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 24100,10500 L 21600,10500 21600,8700 26600,8700 26600,10500 24100,10500 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.RectangleShape">
+      <g id="id23">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 17761,10599 L 16100,10599 16100,8799 19421,8799 19421,10599 17761,10599 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.RectangleShape">
+      <g id="id24">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 11521,11300 L 8842,11300 8842,8800 14200,8800 14200,11300 11521,11300 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.RectangleShape">
+      <g id="id25">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 4500,12900 L 1200,12900 1200,8800 7800,8800 7800,12900 4500,12900 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.RectangleShape">
+      <g id="id26">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 1300,7700 L 400,7700 400,2100 2200,2100 2200,7700 1300,7700 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.LineShape">
+      <g id="id27">
+       <path fill="none" stroke="rgb(0,0,0)" d="M 2200,4900 L 7391,3232"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 7800,3100 L 7326,3095 7417,3381 7800,3100 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.LineShape">
+      <g id="id28">
+       <path fill="none" stroke="rgb(0,0,0)" d="M 2200,4900 L 10475,6232"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 10900,6300 L 10480,6080 10432,6377 10900,6300 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.LineShape">
+      <g id="id29">
+       <path fill="none" stroke="rgb(0,0,0)" d="M 2200,4900 L 3820,8410"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 4000,8800 L 3948,8329 3675,8454 4000,8800 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.LineShape">
+      <g id="id30">
+       <path fill="none" stroke="rgb(0,0,0)" d="M 9800,4300 L 9800,8370"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 9800,8800 L 9950,8350 9650,8350 9800,8800 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.LineShape">
+      <g id="id31">
+       <path fill="none" stroke="rgb(0,0,0)" d="M 25200,4300 L 25200,8270"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 25200,8700 L 25350,8250 25050,8250 25200,8700 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.LineShape">
+      <g id="id32">
+       <path fill="none" stroke="rgb(0,0,0)" d="M 22800,7500 L 22800,8270"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 22800,8700 L 22950,8250 22650,8250 22800,8700 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id33">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="3278" y="3784"><tspan fill="rgb(0,0,0)" stroke="none">納税</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id34">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="5450" y="5184"><tspan fill="rgb(0,0,0)" stroke="none">納税</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id35">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="3678" y="7184"><tspan fill="rgb(0,0,0)" stroke="none">納税</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.LineShape">
+      <g id="id36">
+       <path fill="none" stroke="rgb(0,0,0)" d="M 19000,4300 L 19000,4870"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 19000,5300 L 19150,4850 18850,4850 19000,5300 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id37">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="10150" y="1184"><tspan fill="rgb(0,0,0)" stroke="none">一般会計の歳入の流れ（財源の概念）</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id38">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 1100,13389 C 1099,13790 1881,14191 2664,14193 L 18332,14223 C 19115,14225 19900,13826 19901,13425"/>
+       <path fill="none" stroke="rgb(128,128,128)" d="M 1098,14190 L 1098,14190 Z"/>
+       <path fill="none" stroke="rgb(128,128,128)" d="M 19901,13425 L 19901,13425 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id39">
+       <path fill="none" stroke="rgb(128,128,128)" d="M 21401,13412 C 21400,13813 21649,14214 21899,14214 L 26899,14224 C 27149,14224 27400,13825 27401,13424"/>
+       <path fill="none" stroke="rgb(128,128,128)" d="M 21399,14213 L 21399,14213 Z"/>
+       <path fill="none" stroke="rgb(128,128,128)" d="M 27401,13424 L 27401,13424 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id40">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="22150" y="12484"><tspan fill="rgb(0,0,0)" stroke="none">概ね事業用途が</tspan></tspan></tspan><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="22150" y="13119"><tspan fill="rgb(0,0,0)" stroke="none">決まっている</tspan></tspan></tspan><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="22150" y="13754"><tspan fill="rgb(0,0,0)" stroke="none">特定財源</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id41">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="5450" y="13798"><tspan fill="rgb(0,0,0)" stroke="none">概ね自由な事業用途に使える一般財源</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id42">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="5671" y="19698"><tspan fill="rgb(0,0,0)" stroke="none">野々市市　平成２５年度　一般会計予算額　１５６．２億円</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id43">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="5650" y="15384"><tspan fill="rgb(0,0,0)" stroke="none">１０８．５億円（６９．５％）</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id44">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="22411" y="15284"><tspan fill="rgb(0,0,0)" stroke="none">４７．７億円</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id45">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="6250" y="16784"><tspan fill="rgb(0,0,0)" stroke="none">内、市民税（個人）２４．５億円（１５．７％）</tspan></tspan></tspan><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="6250" y="17419"><tspan fill="rgb(0,0,0)" stroke="none">　一般財源に占める比率　２２．６％</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id46">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="9149" y="6625" transform="translate(9149,6625) rotate(90) translate(-9149,-6625)"><tspan fill="rgb(0,0,0)" stroke="none">分配</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.TextShape">
+      <g id="id47">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="ヒラギノ明朝 ProN W3" font-size="635px" font-weight="300"><tspan class="TextPosition" x="25791" y="6195" transform="translate(25791,6195) rotate(90) translate(-25791,-6195)"><tspan fill="rgb(0,0,0)" stroke="none">分配</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.LineShape">
+      <g id="id48">
+       <path fill="none" stroke="rgb(0,0,0)" d="M 11500,7500 L 11500,8369"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 11500,8799 L 11650,8349 11350,8349 11500,8799 Z"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
