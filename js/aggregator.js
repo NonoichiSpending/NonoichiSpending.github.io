@@ -153,7 +153,8 @@ var OpenSpending = OpenSpending || {};
             currency: data.summary.currency[self.config.measure],
             children: [],
             level: 0,
-            breakdowns: {}
+            breakdowns: {},
+            description:self.config.description
           };
 
         root[self.config.measure] = 0.0;
