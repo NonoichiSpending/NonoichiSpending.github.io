@@ -54,10 +54,11 @@ title: 使途別予算額
         //Use static file instead of api
         //localApiCache: 'aggregate.json',
         dataset: OpenSpending.identifier,
-        rootNodeLabel: 'Total',
+        rootNodeLabel: '市民税（個人）の総額',
         drilldowns: ['category', 'subcategory'],
         cuts: ['year:' + OpenSpending.year],
         breakdown: 'subcategory',
+        description:"一年間に集められた市民税（個人）の総額です。",
         callback: dataLoaded
       });
     });
