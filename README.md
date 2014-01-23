@@ -12,7 +12,7 @@ Where Does My Money Go?野々市市 β版（2013年8月3日稼働）は、野々
 
 なお、このサイトは、公共データのオープン化によって、地域社会を変え、日本社会を変え、世界にも影響を与え、貢献して行こうという思いを持って集まったメンバーによって構築、運営されています。
 
-Where Does My Money Go? Nonoichi helps it's residents understand how their tax money is being used. 
+Where Does My Money Go? Nonoichi helps it's residents understand how their tax money is being used. Based on the Yokohama version of wheredoesmymoneygo.org, it aims to provide greater transparancy into government spending as part of the OpenSpending (http://openspending.org/) initiative. 	
 
 # Nonoichi-shi Team
 
